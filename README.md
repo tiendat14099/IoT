@@ -4,4 +4,4 @@ Dự án IoT kiểm soát trạng thái trong phòng sử dụng vi điều khi�
 
 # Hướng dẫn cài đặt
 
-$Bước 1: Clone dự án về máy
+$ Bước 1: Clone dự án về máy
